@@ -1,0 +1,40 @@
+#mainmenu{
+  background-color: #006EA3;
+}
+#mainmenu a {
+  color: #ffffff;
+}
+
+#slideshow {
+  background-image: url(../images/slideshow-bg.jpg);
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  height: 418px;
+  padding-top: 35px;
+  position: relative;
+}
+
+.breadcrumb > .active {
+    color: #000000 !important;
+}
+
+.bd-section-22 {
+  background-image: url(../images/footericon.jpg);
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  height: 287px;
+}
+
+#eyes {
+  background-color: #006EA3;
+}
+
+#footer {
+  background-color: #2E749A;
+}
+
+#copyright {
+  background-color: #126792;
+}

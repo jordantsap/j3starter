@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="template">
+	<name>jordantsap</name>
+	<creationDate>2008-05-01</creationDate>
+	<author>jordantsap</author>
+	<authorEmail>jordantsal@hotmail.gr</authorEmail>
+	<authorUrl>https://www.facebook.com/JordanTsapanidis</authorUrl>
+	<copyright>jordantsap</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0.2</version>
+	<description>jordantsap</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>partials</folder>
+		<folder>css</folder>
+		<folder>js</folder>
+	</files>
+	<positions>
+		<position>jlogo</position>
+		<position>jheaderinfo</position>
+		<position>jmainmenu</position>
+		<position>jtel</position>
+		<position>jmobile</position>
+		<position>jaddress</position>
+		<!-- header end -->
+		<position>jslideshow</position>
+		<position>jbreadcrumb</position>
+		<position>jsidebar</position>
+		<!-- component -->
+		<position>jcategories</position>
+		<position>homeeyes</position>
+		<position>homepurpose</position>
+		<position>imgbottom</position>
+		<position>jfootercontact</position>
+		<position>jcopyright</position>
+	</positions>
+</extension>
